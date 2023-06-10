@@ -1,14 +1,6 @@
 [![MasterHead](https://www.neoldu.com/d/other/meteorgif.gif)
-
-
 <h1 align="center">Hi 👋, I'm Atilla Taşdemir</h1>
 <h3 align="center">Yarı Zamanlı Hem Kod Yazıyorum Hem Kodlama Ögreniyorum</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atillaw&label=Profile%20views&color=0e75b6&style=flat" alt="atillaw" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atillaw" alt="atillaw" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **atilla12339@outlook.com**
 
@@ -25,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atillaw&show_icons=true&locale=en" alt="atillaw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atillaw&" alt="atillaw" /></p>
+
