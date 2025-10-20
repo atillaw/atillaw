@@ -1,9 +1,10 @@
 <div align="center">
-  
-# Merhaba, ben Atilla Taşdemir 👋
+  <img src="https://raw.githubusercontent.com/AtillaTasdemir/AtillaTasdemir/main/header.svg" alt="Header Banner">
+</div>
 
-### Yarı zamanlı olarak kod yazıyor ve kendimi sürekli geliştiriyorum.
-
+<div align="center">
+  <h1>Selam, ben Atilla Taşdemir 👋</h1>
+  <h3>Yarı zamanlı olarak kod yazıyor ve kendimi sürekli geliştiriyorum.</h3>
 </div>
 
 ---
@@ -14,11 +15,8 @@
   <a href="mailto:atilla12339@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="atilla12339@outlook.com" />
   </a>
-  <a href="https://www.instagram.com/Atilla_tasdmrr" target="_blank">
+  <a href="https://www.instagram.com/hadesdenost/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/Atilla Taşdemir" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
 
@@ -43,10 +41,8 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Metriklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtillaTasdemir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="atillatasdemir" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AtillaTasdemir&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="atillatasdemir" height="192px" />
-  <img src="https://streak-stats.demolab.com/?user=AtillaTasdemir&theme=tokyonight" alt="atillatasdemir" height="192px" />
+  <img src="https://metrics.lecoq.io/AtillaTasdemir?template=classic&config_timezone=Europe/Istanbul&theme=tokyonight" alt="GitHub Metrics" />
 </div>
